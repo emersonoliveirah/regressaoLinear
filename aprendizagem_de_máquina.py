@@ -12,7 +12,7 @@ Original file is located at
 
 Analise do conjunto de dados de Previsão de Preços Imobiliários. O objetivo é explorar a relação entre a distância para a estação de metrô mais próxima e o preço da casa.
 
-Conjuntom de dados obtido no kaggle (https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction/data)
+Conjunto de dados obtido no kaggle (https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction/data)
 
 ## Importação de bibliotecas e carregamento dos dados
 """
